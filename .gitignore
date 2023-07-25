@@ -1,6 +1,6 @@
 # Ultimate .gitignore #
 #######################
-
+**/input/
 # build dir #
 **/build/
 **/output/
